@@ -3,7 +3,7 @@ body {
 }
 
 p {
-    color:rgb(154, 48, 196)
+    color:rgb(154, 48, 196);
 }
 
 h1 {
@@ -12,6 +12,8 @@ h1 {
 
 .estrela{
     color:rgb(67, 0, 94);
-    font-size: larger;
-
+    font-size:xx-large;
+}
+.GUTS{
+    width:25%;
 }
